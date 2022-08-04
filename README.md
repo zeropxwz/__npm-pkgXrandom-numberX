@@ -7,9 +7,7 @@ function randomNumber(begin: number, end: number, type?: 'int' | 'float'): numbe
 ```
 
 ### use
-первым параметр - начало диаплохона
-br
-второй параметр - конец
+первым параметр - начало диаплохона, второй параметр - конец
 ```ts
 randomNumber(a, b)
 ```
