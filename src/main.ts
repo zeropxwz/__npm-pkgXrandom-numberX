@@ -1,6 +1,3 @@
-
-
-
 function randomNumber(begin: number, end: number, type?: 'int' | 'float'): number | void
 function randomNumber(
     begin: number, 
