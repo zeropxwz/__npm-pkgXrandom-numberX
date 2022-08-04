@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zeropxwz/__cli-utilityXrandom-numberX/issues"
   },
-  "homepage": "https://github.com/zeropxwz/__cli-utilityXrandom-numberX#readme"
+  "homepage": "https://github.com/zeropxwz/__cli-utilityXrandom-numberX#readme",
+  "devDependencies": {
+    "@types/node": "^18.6.3"
+  }
 }
